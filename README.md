@@ -1,4 +1,4 @@
-# SHIM-Discord#
+# SHIM-Discord
 
 A Smart Home Inventory Manager for homeowners to keep track of and find household inventory items efficiently
 
@@ -14,3 +14,15 @@ A Smart Home Inventory Manager for homeowners to keep track of and find househol
 
 - Run the Bot with:
 ```node index.js```
+
+## Other Links
+
+Find other repos in our org at https://github.com/Agile-102
+
+API Repo: https://github.com/Agile-102/Smart-Home-Inventory-Manager-API
+
+Telebot Repo: https://github.com/Agile-102/Smart-Home-Inventory-Manager-Telegram
+
+Website Repo: https://github.com/Agile-102/Smart-Home-Inventory-Manager-Website
+
+SHIM's Website: https://shim-web.vercel.app/
